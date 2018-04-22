@@ -1,1 +1,3 @@
-"# This firefox selenium IDE based testsuite will automate the feedback for burgerking. You need to provide the surveycode @ www.mybkexperience.com" 
+# Automating burgerking survey feedback
+
+This firefox selenium IDE based testsuite will automate the feedback for burgerking. You need to provide the surveycode @ www.mybkexperience.com
